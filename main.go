@@ -65,3 +65,7 @@ type Person struct {
 	Age   uint8  `json:"age"`
 	Email string `json:"email"`
 }
+
+type PostPersonBody struct {
+	Name string `json:"name"`
+}
