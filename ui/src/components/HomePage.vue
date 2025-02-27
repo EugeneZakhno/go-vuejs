@@ -1,3 +1,6 @@
+<script setup lang="ts">
+
+</script>
 <template>
   <main class="flex flex-col justify-center items-center gap-8 py-12 px-8">
 
@@ -59,3 +62,6 @@ async function update() {
 }
 
 </script>
+<style scoped>
+
+</style>
